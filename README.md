@@ -10,4 +10,6 @@
 * SSAFY 7th : 2022.01 ~ 2022.07
 * BoostCamp - Web Full Stack : 2022.08 ~ 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=edhz8888)](https://solved.ac/edhz8888) <a href="https://velog.io/@edhz8888"> <img src="https://media.vlpt.us/images/edhz8888/post/682b7ad8-390a-4e9b-abd1-4745c2d9f74b/velog_logo.png" height=170px/></a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=edhz8888)]. 
+
+(https://solved.ac/edhz8888) <a href="https://velog.io/@edhz8888"> <img src="https://media.vlpt.us/images/edhz8888/post/682b7ad8-390a-4e9b-abd1-4745c2d9f74b/velog_logo.png" height=170px/></a>
