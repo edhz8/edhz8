@@ -7,6 +7,7 @@
 * HUFS Statistics(Minor) : 2017.03 ~ 2022.02
 * Abacus Winter Internship - FrontEnd : 2021.01 ~ 2021.02
 * OneCheck Internship - FrontEnd & Android : 2021.03 ~ 2021.07
-* SSAFY 7th : 2022.01 ~
+* SSAFY 7th : 2022.01 ~ 2022.07
+* BoostCamp - Web Full Stack : 2022.08 ~ 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=edhz8888)](https://solved.ac/edhz8888) <a href="https://velog.io/@edhz8888"> <img src="https://media.vlpt.us/images/edhz8888/post/682b7ad8-390a-4e9b-abd1-4745c2d9f74b/velog_logo.png" height=170px/></a>
